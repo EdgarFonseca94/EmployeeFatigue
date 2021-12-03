@@ -10,7 +10,7 @@
 
 ## Background
 
-This data is from Kaggle found ![here](https://www.kaggle.com/blurredmachine/are-your-employees-burning-out)
+This data is from Kaggle found [here](https://www.kaggle.com/blurredmachine/are-your-employees-burning-out)
 
 <a name="Findings"/>
 
