@@ -34,6 +34,11 @@ The correlation shows that burn rate has a strong correlation with all of the va
 
 Averaging the burn rate by the number of days worked showed no connection. One would expect if the more days someone worked then the graph would be high on the earlier dates and then reduce as the date got closer to the current date, but that wasn't what happened.
 
+![designation](IMG/burn_rate_designation.png)
+![wfh](IMG/wfh.png)
+
+I also wanted to see how the categorical variables affected burn rates and only found that designation was obviously a factor that did affect burn rate aswell as also wfh slightly. The categorical variables that didn't seem to affect burn rate were gender and company.  
+
 <a name="Usage"/>
 
 ## Usage
