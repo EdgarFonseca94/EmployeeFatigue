@@ -50,3 +50,5 @@ SVR: .890
 <a name="Usage"/>
 
 ## Usage
+
+Full jupyter notebook can be found [here](https://nbviewer.org/github/EdgarFonseca94/EmployeeFatigue/blob/main/Employee_Burnout.ipynb)
