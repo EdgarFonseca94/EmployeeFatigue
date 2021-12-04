@@ -43,6 +43,10 @@ I also wanted to see how the categorical variables affected burn rates and only 
 
 I used two models to predict burn rate which were Random Forest Regressor and Support Vector Regression. The chart above shows the importance of each variable in our Random Forest model. We can see that Mental Fatigue Score was the most important variable to determine burn rate. This makes alot of sense. Resource allocation followed which was how many hours each employee worked. So as we had determined before the variables that didn't help our models were Gender or Company.
 
+The outcome was that our models scored:
+Random Forest R_2score: .908
+SVR: .890
+
 <a name="Usage"/>
 
 ## Usage
