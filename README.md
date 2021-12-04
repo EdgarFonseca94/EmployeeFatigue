@@ -5,6 +5,7 @@
 - [Background](#Background)
   - [Data Cleaning](#cleaning)
 - [Findings](#Findings)
+  - [correlation](#corr)
 - [Usage](#Usage)
 
 <a name="Background"/>
@@ -22,6 +23,16 @@ This dataset was from Kaggle so it was already organized, but I did have to:
 <a name="Findings"/>
 
 ## Findings
+
+<a name="corr"/>
+
+![corr](IMG/corr.png)
+
+The correlation shows that burn rate has a strong correlation with all of the variables except for days worked. That was surprising to me because I expected number of days worked to be important.
+
+![days_worked](IMG/days_worked.png)
+
+Averaging the burn rate by the number of days worked showed no connection. One would expect if the more days someone worked then the graph would be high on the earlier dates and then reduce as the date got closer to the current date, but that wasn't what happened.
 
 <a name="Usage"/>
 
