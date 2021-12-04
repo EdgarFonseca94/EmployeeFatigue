@@ -36,6 +36,7 @@ Averaging the burn rate by the number of days worked showed no connection. One w
 
 ![designation](IMG/burn_rate_designation.png)
 ![wfh](IMG/wfh.png)
+
 ![company](IMG/burn_rates by categorical.png)
 
 
