@@ -36,6 +36,8 @@ Averaging the burn rate by the number of days worked showed no connection. One w
 
 ![designation](IMG/burn_rate_designation.png)
 ![wfh](IMG/wfh.png)
+![company](IMG/burn_rates by categorical.png)
+
 
 I also wanted to see how the categorical variables affected burn rates and only found that designation was obviously a factor that did affect burn rate aswell as also wfh slightly. The categorical variables that didn't seem to affect burn rate were gender and company.  
 
